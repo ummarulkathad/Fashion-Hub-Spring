@@ -60,7 +60,7 @@ An IDE (e.g., Visual Studio Code, IntelliJ IDEA)
 Installation
 Clone the repository:
 
-git clone [https://github.com/your-username/FashionHub.git](https://github.com/your-username/FashionHub.git)
+git clone [https://github.com/ummarulkathad/Fashion-Hub-Spring]
 cd FashionHub
 
 Set up the backend:
